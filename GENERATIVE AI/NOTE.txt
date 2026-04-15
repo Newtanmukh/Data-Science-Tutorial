@@ -1,0 +1,21 @@
+Language model is an AI Model that can predict the next word
+or set of words for a given sequence of word as input.
+
+
+Semantic search (Apple company vs apple fruit): uses concept of embedding to identify whetver apple is company or fruit.
+
+
+We generate and store data into DB in form of embedding vectors.
+now when a search query comes, linearly we keep doing cosine with each of the vector inside the DB.
+And then take out the one with the most similarity as the result.
+
+so we use index, we create hash and kind of vectors stored in same bucket.
+then we take hash of incoming query vector and then route it to bucket 
+where vectors of same hash is stored.
+Also called locality Sensitive Hashing (LSH).
+
+vector databases help in fast search, also help store things in optimal way.
+
+
+
+
