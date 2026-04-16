@@ -18,4 +18,4 @@ vector databases help in fast search, also help store things in optimal way.
 
 
 
-
+RAG (Retrieval Augumented Generation) : 
