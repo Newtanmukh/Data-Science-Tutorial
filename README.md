@@ -10,8 +10,10 @@ Each project folder includes Jupyter notebooks, Python scripts, datasets, and st
 |---------|-------------|----------------|
 | **[BIG MART SALES PREDICTION](BIG%20MART%20SALES%20PREDICTION/)** | Predict sales for Big Mart outlets using historical data. Covers data exploration, feature engineering, and regression modeling. | XGBoost Regressor |
 | **[CAR PRICE PREDICTION](CAR%20PRICE%20PREDICTION/)** | Predict car prices based on features like mileage, year, and brand. Includes data cleaning and visualization. | Linear Regression |
-| **[CUSTOMER SEGMENTATION](CUSTOMER%20SEGMENTATION/)** | Dataset for customer segmentation analysis. (Note: No code provided; suitable for clustering exercises.) | N/A |
+| **[CUSTOMER SEGMENTATION](CUSTOMER%20SEGMENTATION/)** | Segment mall customers using K-Means clustering based on spending patterns and demographics. Includes complete data preprocessing, clustering analysis, and visualization of customer segments. | K-Means Clustering |
 | **[DIABETES_PREDICTION](DIABETES_PREDICTION/)** | Predict diabetes risk using patient data. Focuses on binary classification and model evaluation. | Support Vector Machine (SVM) |
+| **[GENERATIVE AI](GENERATIVE%20AI/)** - **EQUITY NEWS RESEARCH TOOL** | AI-powered financial research tool that analyzes equity news and market data. Uses LangChain for advanced NLP processing to extract insights and summarize stock-related information from various news sources. | LangChain, NLP, LLM |
+| **[GENERATIVE AI](GENERATIVE%20AI/)** - **RESTAURANT GEN AI APPLICATION** | Intelligent restaurant assistant application leveraging LangChain framework for natural language processing. Demonstrates RAG (Retrieval-Augmented Generation) patterns and conversational AI for restaurant operations, menu management, and customer interactions. | LangChain, Generative AI, RAG |
 | **[GOLD PREDICTION](GOLD%20PREDICTION/)** | Forecast gold prices using time-series and regression techniques. | Random Forest Regressor |
 | **[HOUSE PRICE PREDICTION](HOUSE%20PRICE%20PREDICTION/)** | Predict house prices using real estate data. Demonstrates advanced regression methods. | XGBoost Regressor |
 | **[IMAGE_CLASSIFICATION](IMAGE_CLASSIFICATION/)** | Classify images using deep learning. Includes model training and evaluation on image datasets. | TensorFlow/Keras (Neural Networks) |
