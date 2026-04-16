@@ -1,0 +1,15 @@
+The video outlines three specific limitations of using ChatGPT directly for equity research that necessitate the development of a custom tool (1:19:47 - 1:20:42):
+
+Inefficient workflow: The process of manually copying and
+ pasting individual articles into a chat interface is
+ tedious and time-consuming for professional equity research
+  analysts (1:19:49 - 1:20:01).
+
+Lack of aggregate knowledge: Analysts need to perform queries across
+multiple documents simultaneously. ChatGPT does not provide an
+integrated knowledge base that can search and synthesize information
+ spread across various different articles (1:20:04 - 1:20:29).
+
+Word and token constraints: ChatGPT has strict limits on the volume of text
+it can process at one time. This makes it unsuitable for analyzing large
+amounts of source documentation required for thorough research (1:20:33 - 1:20:42).
