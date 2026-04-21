@@ -24,6 +24,14 @@ Each project folder includes Jupyter notebooks, Python scripts, datasets, and st
 | **[SONAR - ROCK & MINE](SONAR%20-%20ROCK%20&%20MINE/)** | Classify sonar signals as rock or mine using acoustic data. Binary classification example. | Logistic Regression |
 | **[WINE PREDICTION](WINE_PREDICTION/)** | Predict wine quality based on chemical properties. Multiclass classification with ensemble methods. | Random Forest Classifier |
 
+| **[CUSTOMER TRENDS ANALYSIS](CUSTOMER%20TRENDS%20ANALYSIS/)** | Analyze customer purchase trends and behavior using data preprocessing, exploratory data analysis, and visualizations. | Data Analysis |
+
+| **[EMAIL SPAM CLASSIFIER](EMAIL%20SPAM%20CLASSIFIER/)** | Classify emails/SMS as spam or not using natural language processing and machine learning. Multiple algorithms evaluated including Naive Bayes, SVM, Random Forest, etc., with MultinomialNB selected. | TF-IDF + Multinomial Naive Bayes |
+
+| **[MOVIE RECOMMENDER SYSTEMS](MOVIE%20RECOMMENDER%20SYSTEMS/)** | Build a movie recommendation system based on content similarity using movie metadata. | CountVectorizer + Cosine Similarity |
+
+| **[OLYMPICS WEB APP](OLYMPICS%20WEB%20APP/)** | Interactive web application for analyzing Olympics data, including medal tallies, athlete statistics, and visualizations. | Data Visualization |
+
 ## 🚀 Getting Started
 
 1. **Clone the Repository**:
