@@ -27,6 +27,7 @@ Each project folder includes Jupyter notebooks, Python scripts, datasets, and st
 | **[EMAIL SPAM CLASSIFIER](EMAIL%20SPAM%20CLASSIFIER/)** | Classify emails/SMS as spam or not using natural language processing and machine learning. Multiple algorithms evaluated including Naive Bayes, SVM, Random Forest, etc., with MultinomialNB selected. | TF-IDF + Multinomial Naive Bayes |
 | **[MOVIE RECOMMENDER SYSTEMS](MOVIE%20RECOMMENDER%20SYSTEMS/)** | Build a movie recommendation system based on content similarity using movie metadata. | CountVectorizer + Cosine Similarity |
 | **[OLYMPICS WEB APP](OLYMPICS%20WEB%20APP/)** | Interactive web application for analyzing Olympics data, including medal tallies, athlete statistics, and visualizations. | Data Visualization |
+| **[RESUME SCREENING APP](RESUME%20SCREENING%20APP/)** | Resume screening and analysis application for parsing candidate profiles and automating matching and ranking. | NLP / Resume Analyzer |
 
 ## 🚀 Getting Started
 
